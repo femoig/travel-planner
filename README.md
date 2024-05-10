@@ -2,7 +2,7 @@
 O Travel Planner é um assistente virtual de viagens, auxiliando na descoberta de lugares incríveis para conhecer nas suas próximas férias.
 
 
-Utilizando um modelo inspiracionao e suas preferências, vocês receberá automaticamente:
+Utilizando um modelo inspiracional e suas preferências, vocês receberá automaticamente:
 - recomendações das cidades mais populares
 - roteiros diários
 - sugestão de melhor época para viajar
